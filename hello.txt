@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola World!
 This is a test of the emergency git-casting system.
 
+=======
+Hello World!
+>>>>>>> parent of ee10f92 (Changing hello.txt because of errors)
